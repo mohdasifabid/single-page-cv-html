@@ -27,7 +27,7 @@ This is a simple single-page application (SPA) created using HTML to display a p
 
 3. Customize the content inside the HTML file as needed:
 4. Projec URL https://mohdasifdev-cv.netlify.app/
-
+5. https://roadmap.sh/projects/single-page-cv
 ## Links
 
 - [GitHub Profile](https://github.com/mohdasifabid)
