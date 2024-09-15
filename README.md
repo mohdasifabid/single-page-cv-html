@@ -26,6 +26,7 @@ This is a simple single-page application (SPA) created using HTML to display a p
 2. Open the `index.html` file in your browser.
 
 3. Customize the content inside the HTML file as needed:
+4. Projec URL https://mohdasifdev-cv.netlify.app/
 
 ## Links
 
