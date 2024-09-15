@@ -1,0 +1,14 @@
+body {
+  padding: 2rem;
+  border: 4px solid black;
+}
+
+#half_line {
+  border: 2px solid black;
+  width: 75%;
+}
+
+#footer_link_wrapper {
+  display: flex;
+  gap: 1rem;
+}
